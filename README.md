@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=7D3BC3&center=true&vCenter=true&width=600&lines=VELOWIND%20SYSTEMS;OPERATING%20IN%20THE%20SHADOWS;CODE%20IS%20MY%20FOOTPRINT." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=7D3BC3&center=true&vCenter=true&width=600&lines=🧑‍💻VELOWIND%20SYSTEMS;OPERATING%20IN%20THE%20SHADOWS;CODE%20IS%20MY%20FOOTPRINT." alt="Typing SVG" />
