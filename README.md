@@ -1,1 +1,1 @@
-[![Awashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=awashi&show_icons=true&theme=dracula&border_radius=10&border_color=8a2be2&title_color=9f7aea&icon_color=9f7aea )](https://github.com/anuraghazra/github-readme-stats )
+[![RAEED01's GitHub stats](https://github-readme-stats.vercel.app/api?username=awashi&show_icons=true&theme=dracula&border_radius=10&border_color=8a2be2&title_color=9f7aea&icon_color=9f7aea )](https://github.com/anuraghazra/github-readme-stats )
