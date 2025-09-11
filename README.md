@@ -3,6 +3,7 @@
 
 
 
+[![Awashi's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awashi&theme=tokyonight )](https://github.com/vn7n24fzkq/github-profile-summary-cards )
 
 
 
