@@ -9,9 +9,7 @@
       
   
 
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,bash,git&theme=dark&perline=6" alt="My Skills"/>
-    </a>
+
   </div>
 </div>
 
