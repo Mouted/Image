@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/94j9LLP.gif" alt="Header GIF" width="100%"/>
-</p>
-
 
 
 
