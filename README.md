@@ -1,13 +1,5 @@
 
-
-
-
-
-
-
-
-
-
+[![Velo's GitHub stats](https://github-readme-stats.vercel.app/api?username=awashi&show_icons=true&theme=tokyonight&border_radius=10&border_color=7D3BC3&title_color=7D3BC3&icon_color=7D3BC3&text_color=c9c9c9 )](https://github.com/anuraghazra/github-readme-stats )
 
 
 
