@@ -1,1 +1,22 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1500&color=7D3BC3&center=true&vCenter=true&width=450&lines=>.......;🕵️%20Coded%20By%20Velowind;{E14A2A69-A21E-4E17-A55C-3B4F6DC1D}" alt="Typing SVG" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Awashi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awashi&bg_color=0d1117&color=ffffff&line=7D3BC3&point=7D3BC3&area=true&hide_border=true )](https://github.com/ashutosh00710/github-readme-activity-graph )
