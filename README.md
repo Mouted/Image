@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.imgur.com/Jxa4f1c.gif" alt="Purple Matrix Rain" width="100%"/>
+  <img src="https://i.imgur.com/dZc9iCn.gif" alt="Abstract Purple Wave" width="100%"/>
 </p>
