@@ -1,6 +1,5 @@
 <div align="center" style="position: relative;">
   <!-- الطبقة الأولى: الخلفية المتحركة -->
-  <img src="https://i.imgur.com/M7v3S4N.gif" alt="Digital Cockpit" width="100%"/>
 
   <!-- الطبقة الثانية: المحتوى المضيء (موضوع في وسط الخلفية ) -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
