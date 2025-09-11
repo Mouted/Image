@@ -5,4 +5,4 @@ ________________________________________________________________________________
 
 ## GitHub Activity Graph
 
-[![Velo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Velo&bg_color=0d1117&color=ffffff&line=7D3BC3&point=7D3BC3&area=true&hide_border=true )](https://github.com/ashutosh00710/github-readme-activity-graph )
+[![Velo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xxxxxxxxxxx&bg_color=0d1117&color=ffffff&line=7D3BC3&point=7D3BC3&area=true&hide_border=true )](https://github.com/ashutosh00710/github-readme-activity-graph )
