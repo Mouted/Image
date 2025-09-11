@@ -1,1 +1,3 @@
-[![Meme](https://github-readme-memes.vercel.app/api/gimme/ProgrammerHumor?title=Random%20Meme&theme=tokyonight )](https://github.com/extracts/github-readme-memes )
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/docs/video.gif" alt="GitHub Contributions Chart" />
+</p>
